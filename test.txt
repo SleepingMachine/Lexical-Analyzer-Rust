@@ -1,0 +1,2 @@
+while (x>10) then do id=1;number=2;letter=3;relop;\n
+
